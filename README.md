@@ -43,3 +43,22 @@ A star schema is a type of dimensional model where data is structured with a cen
 
 ![](Adjusted_Model.png)
 
+## Data analysis - insights and recommendations
+
+1.	What is our year-over-year (YOY) revenue and profit growth? How did we perform in the previous year?
+
+A YOY comparison is a valuable method for assessing the financial performance of Maven Toys by analyzing revenue and profit for the same period in the current year compared to the previous year. In this analysis, the time frame considered is January to September for both years.
+Revenue         | Profit
+:---------------: | :---------------: 
+![](Revenue.png) | ![](Profit.png)
+
+## Visualization
+
+The report comprises 3 pages:
+1. Overview
+2. Product
+3. Stores
+
+
+
+

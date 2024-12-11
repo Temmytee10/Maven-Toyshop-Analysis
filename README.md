@@ -38,3 +38,8 @@ store locations?
 
 ## Modelling
 
+Automatically generated relationships are modified to remove unwanted connections and replace them with the desired ones. The model created for this analysis is a star schema. 
+A star schema is a type of dimensional model where data is structured with a central fact table(Sales table) surronded by multiple dimension tables.
+
+![](Adjusted_Model.png)
+

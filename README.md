@@ -52,6 +52,9 @@ Revenue         | Profit
 :---------------: | :---------------: 
 ![](Revenue.png) | ![](Profit.png)
 
+
+In 2023, Maven Toys achieved $6.96 million in revenue during the specified period, marking a 30.9% year-over-year increase compared to the $5.32 million generated in the same timeframe in 2022. Profits for 2023 reached $1.82 million, reflecting a 16% growth from the $1.57 million recorded in the prior year. Cumulatively, from January 2022 to September 2023, Maven Toys generated $14.44 million in revenue and $3.39 million in total profit.
+
 ## Visualization
 
 The report comprises 3 pages:
